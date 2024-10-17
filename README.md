@@ -1,7 +1,9 @@
 Configures Windows 11
 
 Automatically
+
 Installing Applications
+
 Modifying System Settings
  - Start Layout
  - Desktop Layout | Add ThisPC | 
