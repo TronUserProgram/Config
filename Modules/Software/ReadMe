@@ -1,0 +1,2 @@
+Add software here also need to update the InstallApplications to create functions for each of the installations you add here
+And then add the Functions to the Config.ps1 script
