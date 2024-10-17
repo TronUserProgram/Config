@@ -1,6 +1,6 @@
 Configures Windows 11
 
-Automatically
+Automation:
 
 Installing Applications
 
