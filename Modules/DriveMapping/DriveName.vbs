@@ -12,4 +12,4 @@ oShell.NameSpace(mDrive).Self.Name = "Drive 3"
 
 mDrive = "J:\"
 Set oShell = CreateObject("Shell.Application")
-oShell.NameSpace(mDrive).Self.Name = "Drive 4"
+oShell.NameSpace(mDrive).Self.Name = "Jottacloud"
