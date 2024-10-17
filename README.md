@@ -12,3 +12,5 @@ Modifying System Settings
  - Changing the Windows 11 Context menu to the Windows 10 look
 
 And more...
+
+See the Config.ps1 for Options (uncomment the functions to enable)
